@@ -64,6 +64,7 @@ println(s"Test set accuracy = ${evaluator.evaluate(predictionAndLabels)}")
 ```
 
 ### Code running
+![image](https://user-images.githubusercontent.com/40293937/169231210-eae75f5f-c076-43eb-94d9-4e2162fd1598.png)
 
 
 ### Conclusion
