@@ -1,7 +1,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Dze8yYYzBPaBVPf7j9Mx9NkHZDDzKXzavCoUnkZuO0xqHG3__mjVJOearB9bEeY4sg&usqp=CAU)
 # Instituto Tecnológico de Tijuana
 ### Nombre de Facultad:
-#### Ingeniería Informática y Ingeniería en Tecnologías de la Información y Comunicación.
+#### Ingeniería Informática.
 ### Proyecto / Tarea / Práctica:
 #### Basic Statistics
 ### Materia:
@@ -88,6 +88,10 @@ def main() {
 }
 
 ```
+
+### Code Running
+![image](https://user-images.githubusercontent.com/40293937/169226614-e4f49428-b37c-4768-b961-07f043f1c9dc.png)
+
 
 ### Conclusion
 Statistics is fundamental to ensuring meaningful, accurate information is extracted from Big Data. The following issues are crucial and are only exacerbated by Big Data: 
