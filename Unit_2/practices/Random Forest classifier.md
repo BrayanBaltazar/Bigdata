@@ -116,6 +116,8 @@ val sameModel = RandomForestModel.load(sc, "target/tmp/myRandomForestRegressionM
 ```
 
 ### Code running
+![image](https://user-images.githubusercontent.com/40293937/169228237-64e065fa-9719-414c-b180-77d4d89928d7.png)
+![image](https://user-images.githubusercontent.com/40293937/169228275-523aec9b-9d2d-4839-a9ad-9281473ec202.png)
 
 
 ### Conclusion
