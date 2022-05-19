@@ -1,7 +1,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Dze8yYYzBPaBVPf7j9Mx9NkHZDDzKXzavCoUnkZuO0xqHG3__mjVJOearB9bEeY4sg&usqp=CAU)
 # Instituto Tecnológico de Tijuana
 ### Nombre de Facultad:
-#### Ingeniería Informática y Ingeniería en Tecnologías de la Información y Comunicación.
+#### Ingeniería Informática.
 ### Proyecto / Tarea / Práctica:
 #### Basic Statistics
 ### Materia:
