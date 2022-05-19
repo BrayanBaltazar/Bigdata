@@ -63,6 +63,7 @@ val sameModel = GradientBoostedTreesModel.load(sc,
 ```
 
 ### Code running
+![image](https://user-images.githubusercontent.com/40293937/169229047-394ff8ae-0e54-412b-9069-0ad90facb79b.png)
 
 
 ### Conclusion
