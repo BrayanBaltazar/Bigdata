@@ -89,6 +89,10 @@ def main() {
 
 ```
 
+### Code Running
+![image](https://user-images.githubusercontent.com/40293937/169226614-e4f49428-b37c-4768-b961-07f043f1c9dc.png)
+
+
 ### Conclusion
 Statistics is fundamental to ensuring meaningful, accurate information is extracted from Big Data. The following issues are crucial and are only exacerbated by Big Data: 
 o Data quality and missing data o Observational nature of data, so that causal questions such as the comparison of interventions may be subject to confounding. o Quantification of the uncertainty of predictions, forecasts and models 
