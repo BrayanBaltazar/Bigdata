@@ -98,22 +98,27 @@ println(s"\n\nTest set accuracy = ${evaluator.evaluate(predictionAndLabels)}")
 ### Code Running
 
 1# 
+
  ![image](https://user-images.githubusercontent.com/40293937/169684138-15779f92-1a66-4931-9b05-ffbcd27eeda4.png)
 
 
 2#
+
  ![image](https://user-images.githubusercontent.com/40293937/169684141-e6d91d62-245f-4d71-9c79-9443f005bcd0.png)
 
 
 #3
+
  ![image](https://user-images.githubusercontent.com/40293937/169684151-7451b32a-d473-4a26-bac1-c876e91d3569.png)
 
 
 #4
+
  ![image](https://user-images.githubusercontent.com/40293937/169684155-1ccc4473-9030-49c3-b8b4-1bfe6fda8bbc.png)
 
 
 #5-8
+
 ![image](https://user-images.githubusercontent.com/40293937/169684164-427d60f6-96f8-45bd-8691-18587bc476ce.png)
 
 
