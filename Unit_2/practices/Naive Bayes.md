@@ -70,6 +70,7 @@ println ("tasa de error =" + (1-precision))
 ```
 
 ### Code Running
+![image](https://user-images.githubusercontent.com/40293937/169683969-f68dc3f3-6223-480c-97f3-ba6f8ca06688.png)
 
 
 
