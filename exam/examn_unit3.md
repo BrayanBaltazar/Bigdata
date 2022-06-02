@@ -65,6 +65,7 @@ model.clusterCenters.foreach(println)
 ```
 
 ### Code Running
+![image](https://user-images.githubusercontent.com/40293937/171579052-ec6b5add-9563-4a81-a87d-9e8029133ae1.png)
 
 
 
