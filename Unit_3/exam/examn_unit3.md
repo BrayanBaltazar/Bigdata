@@ -76,7 +76,7 @@ Los puntos de datos se agrupan en función de la similitud de las característic
 Los centroides de los clústeres K, que puedes ser usados para etiquetar nuevos datos.
 Etiquetas para los datos de formación, cada punto de datos se asigna a un único clúster.
 
-###Exam defense
+### Exam defense
 https://www.youtube.com/watch?v=pbAkFT-Pm-w&ab_channel=ERIKSAULRIVERAREYES
 
 ### References.
